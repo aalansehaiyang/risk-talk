@@ -25,4 +25,3 @@
 * [规则引擎Drools教程一](https://mp.weixin.qq.com/s/mg__6dmOhGsbL8cokOO9bw)
 * [轻量级JAVA实时业务风控系统框架](https://github.com/sunpeak/riskcontrol)
 * [RuleEngine](https://github.com/Hale-Lee/RuleEngine)
-* [URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则](https://github.com/youseries/urule)
