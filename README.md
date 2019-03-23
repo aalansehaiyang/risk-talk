@@ -8,6 +8,7 @@
 * [拍拍贷网贷数据挖掘，风控建模](https://github.com/ttloveyy/PPD-data-mining)
 * [各公司的风控场景及解决方案](https://github.com/yangliang1415/awesome-risk-control)
 * [风控知识](https://github.com/yangliang1415/awesome-risk-control)
+* [风险控制笔记，适用于互联网企业 ](https://github.com/WalterInSH/risk-management-note)
 
 ### 系统案例
 
