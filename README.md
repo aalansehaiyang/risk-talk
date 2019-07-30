@@ -26,3 +26,10 @@
 * [规则引擎Drools教程一](https://mp.weixin.qq.com/s/mg__6dmOhGsbL8cokOO9bw)
 * [轻量级JAVA实时业务风控系统框架](https://github.com/sunpeak/riskcontrol)
 * [RuleEngine](https://github.com/Hale-Lee/RuleEngine)
+
+
+### 写在最后
+
+**收到一些热衷于技术的同学反馈，考虑github实时通知不是特别好，以后时间里，一些技术经验总结、心得体会，会不定期同步一份到微信公众号上，欢迎关注，多多交流，共同进步**
+
+![image](img/qrcode_for_gh_4461eb8b8689_258.jpg)
