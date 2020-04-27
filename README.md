@@ -28,8 +28,11 @@
 * [RuleEngine](https://github.com/Hale-Lee/RuleEngine)
 
 
-### 写在最后
+### 微信公众号
 
-**收到一些热衷于技术的同学反馈，考虑github实时通知不是特别好，以后时间里，一些技术经验总结、心得体会，会不定期同步一份到微信公众号上，欢迎关注，多多交流，共同进步**
+**新开了个微信公众号：微观技术，分享各个行业优秀的架构设计方案、技术心得、心路历程等，欢迎各位技术达人关注、经验交流**
 
-![image](img/qrcode_for_gh_4461eb8b8689_258.jpg)
+![image](https://i.niupic.com/images/2020/04/04/7hig.jpg)
+
+
+`商务合作，请发邮件到 aalansehaiyang52@126.com`
